@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinagilassi
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Javascript, CSS, HTML
 - 🌱 I’m currently learning Angular, Node.js 
-- 📫 How to reach me @sinagilassi on twitter
+- 📫 Reach me @sinagilassi on twitter
 
 <!---
 sinagilassi/sinagilassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
