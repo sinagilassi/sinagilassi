@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinagilassi
 - 👀 I’m interested in Javascript, CSS, HTML
-- 🌱 I’m currently learning advanced Angular, Node.js 
+- 🌱 I’m currently learning advanced Angular, Node.js, Nest.js 
 - 📫 Reach me @sinagilassi on twitter
 
 <!---
